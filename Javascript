@@ -15,3 +15,16 @@ In javascript We learned how to setup javascript wihich is internally using scri
  Variable names cannot start with numbers<br/>
   JavaScript is case-sensitive. So y and Y are different variables.<br/>
   Keywords cannot be used as variable names.<br/>
+  
+  We also saw Javascript data types and operators <br/>
+  
+  Js operators are the basics such as <br/>
+  Arithmetic operators - +,*,-,/<br/>
+  Assignment operators - =,+=,*=,-=,/=<br/>
+  String operators - +, += <br/>
+   Incrementing and Decrementing Operators - ++x,++x<br/>
+   Logical Operators - && , !<br/> and so
+   
+
+  
+  
