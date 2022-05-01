@@ -1,0 +1,17 @@
+In javascript We learned how to setup javascript wihich is internally using script tag or externally with .js extenesion.<br/>
+# Javascript is case sensitive<br/>
+# We can comment in JS either using <br/>
+
+//  for  Single Line Comments<br/>
+/* */  for Multi-line Comments<br/>
+ 
+ 
+ Variables<br/>
+ We use Var, let and const to declare variables.Const cant be reassigned once its declared unlike the others.<br/>
+ 
+ Rules for Naming JavaScript Variables<br/>
+ 
+ Variable names must start with either a letter, an underscore _, or the dollar sign $.<br/>
+ Variable names cannot start with numbers<br/>
+  JavaScript is case-sensitive. So y and Y are different variables.<br/>
+  Keywords cannot be used as variable names.<br/>
